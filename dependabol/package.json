@@ -18,7 +18,7 @@
     "@vue/cli-service": "~4.5.15",
     "babel-eslint": "^10.1.0",
     "moment": "^2.29.1",
-    "luxon": "^1.25.0",
+    "luxon": "^0.5.8",
     "vue-moment": "^4.1.0",
     "eslint": "^6.7.2",
     "lodash": "^4.17.20",
